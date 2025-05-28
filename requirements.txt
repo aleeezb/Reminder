@@ -4,5 +4,6 @@ idna==3.10
 jalali_core==1.0.0
 jdatetime==5.2.0
 pyTelegramBotAPI==4.27.0
+pytz==2025.2
 requests==2.32.3
 urllib3==2.4.0
